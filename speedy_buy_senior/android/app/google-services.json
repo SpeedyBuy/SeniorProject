@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969112396738",
+    "project_id": "speedybuy-7d48c",
+    "storage_bucket": "speedybuy-7d48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969112396738:android:94a466d2491a8325e32c5b",
+        "android_client_info": {
+          "package_name": "com.example.speedybuysenior"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCey4b5V5EEuB86v8DQMzDP1Hehyo260vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
